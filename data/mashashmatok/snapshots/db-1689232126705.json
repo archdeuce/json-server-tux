@@ -1,0 +1,344 @@
+{
+  "users": [
+    {
+      "email": "archdeuce@gmail.com",
+      "password": "$2a$10$PMP7gflMkHYSGg62PdC2uOpmnEadOkhujnBb1qWLURfhQv3lJzGL6",
+      "id": 1,
+      "login": "archdeuce",
+      "userId": 1
+    }
+  ],
+  "schedules": [
+    {
+      "1": {
+        "start": "08:30",
+        "end": "9:50"
+      },
+      "2": {
+        "start": "10:00",
+        "end": "11:20"
+      },
+      "3": {
+        "start": "11:50",
+        "end": "13:10"
+      },
+      "4": {
+        "start": "13:20",
+        "end": "14:40"
+      },
+      "5": {
+        "start": "14:50",
+        "end": "16:10"
+      },
+      "6": {
+        "start": "16:20",
+        "end": "17:40"
+      },
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "monday": {
+        "1": "Биология и экология",
+        "2": "География",
+        "3": "Физ-ра / Всемирная история",
+        "4": "Классный час",
+        "5": "",
+        "6": ""
+      },
+      "tuesday": {
+        "1": "",
+        "2": "Украинский язык",
+        "3": "Химия",
+        "4": "Информатика / История Украины",
+        "5": "",
+        "6": ""
+      },
+      "wednesday": {
+        "1": "Химия",
+        "2": "Биология",
+        "3": "Защита Украины",
+        "4": "Физ-ра",
+        "5": "",
+        "6": ""
+      },
+      "thursday": {
+        "1": "Экономическая теория",
+        "2": "Украинская лит-ра",
+        "3": "Физика",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "friday": {
+        "1": "Иностранный язык",
+        "2": "Математика",
+        "3": "Зарубежная лит-ра",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "saturday": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "userId": 1,
+      "lesson": "Биология и экология",
+      "teacher": "Петров Иван",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "lesson": "Физика",
+      "teacher": "Инкогнито",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "lesson": "История Украины",
+      "teacher": "Шматок Мария",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "lesson": "Информатика",
+      "teacher": "Сидоров Василий",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "lesson": "Химия",
+      "teacher": "Иванов Петр",
+      "id": 6
+    }
+  ],
+  "news": [
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Новость #2",
+      "text": "sdfdsfdf df df df dffffffffffffffffffffffffffffffffffffff dfffffffffffffffffffffffffffff fddddddddddddddddddddddddddd dffffffffffffffffff dfffffffffffffffff",
+      "imageURL": "",
+      "id": 2,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Новость #3",
+      "text": "fsdf",
+      "imageURL": "",
+      "id": 3,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Новость #4",
+      "text": "g sdgsdg",
+      "imageURL": "",
+      "id": 4,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "sdf sd dst sd tsdt st 1",
+      "text": "st sdt sd ts  sdrtst sadf dsfd dsf gsdfg",
+      "imageURL": "",
+      "id": 5,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-08",
+      "title": "Lorem, ipsum dolor sit amet ametqe",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta natus dolorum quaerat laboriosam vero saepe ipsa, ab quibusdam at, ipsum exercitationem cumque, itaque numquam dolorem cupiditate amet explicabo fugit maxime expedita. Sapiente at itaque voluptas! Modi esse laborum sequi inventore dolorem provident quisquam nihil amet, ut velit voluptatem itaque neque omnis vel distinctio ullam quaerat facere error consequuntur repellendus atque fugiat. Perspiciatis iste eius nisi porro ratione magnam ullam tenetur quidem amet omnis odit, nobis explicabo exercitationem esse architecto, animi rem deserunt quia quae obcaecati natus, rerum facilis illo quo. Ipsam temporibus dolores totam similique atque minima nesciunt esse, unde numquam ab sit maiores deserunt accusamus, at est dignissimos nulla dolor. Voluptatem quasi sapiente sed reprehenderit maxime minima aut eveniet, sequi eaque odit! Deserunt alias, dolore consequuntur reprehenderit totam atque sint harum, neque repellendus obcaecati eligendi quibusdam libero, optio at esse debitis. Laudantium doloremque ut totam. Voluptatem velit exercitationem illo officiis assumenda minus nulla reiciendis sunt tenetur sint eius ad blanditiis consequatur inventore natus molestiae, voluptatum ratione numquam voluptas consectetur rem perspiciatis sapiente corrupti dignissimos? Repudiandae, nemo iure! Facilis adipisci consequatur iure omnis sint nostrum enim tenetur deleniti animi, earum neque, inventore error architecto atque officiis totam laboriosam quam nemo recusandae magnam quo esse! Repellat dolores deserunt nihil aut ut harum recusandae assumenda aperiam? Labore, natus? Ipsa cumque aliquam enim eum voluptas? Doloribus deleniti nostrum porro similique sunt dolore repellendus, animi fugiat fuga vitae voluptatem, atque, cumque praesentium delectus illo quaerat sequi corrupti. Praesentium officia quos magni saepe voluptatem modi obcaecati aut corrupti dolore reiciendis. Harum assumenda labore quis, veritatis corrupti eos ullam hic facere magnam quos a suscipit officiis itaque quisquam ea rerum blanditiis beatae natus autem laudantium! Provident quibusdam magni atque debitis, officia corporis sapiente! Nulla molestias sequi ipsum amet praesentium quam maiores autem aut dolor magnam, dicta, repellat eius eum tenetur modi repudiandae, exercitationem delectus. A ipsum quam dolorum debitis labore voluptate fugiat, quos recusandae, tempore ex hic eum exercitationem, optio expedita ullam est magnam nesciunt adipisci quisquam minima odio explicabo voluptatem? Quisquam mollitia laborum at voluptate asperiores totam modi accusantium? Deserunt, consectetur iste illo nobis quis atque? Odit saepe voluptatum at voluptatibus. Minus cumque deleniti aliquid eos eaque ea repellat distinctio ipsam alias dolores eveniet porro reprehenderit dolorem vitae consequatur ex nam repellendus, aperiam facilis magnam commodi. Recusandae quibusdam minus veritatis corrupti ex eligendi reprehenderit a molestias assumenda quas temporibus iusto quae, ducimus ad nulla eaque? Eum asperiores fuga magnam maiores eos at, sequi soluta ex quasi temporibus culpa obcaecati facere, iste quia possimus alias quaerat illo ea modi hic. Accusantium cumque earum nihil non inventore, maiores reiciendis dicta sequi corrupti totam illum adipisci aperiam recusandae vel asperiores explicabo nostrum excepturi repellendus labore molestias ratione rerum sapiente! Necessitatibus expedita autem quia beatae? Unde omnis numquam explicabo voluptatibus, at quibusdam deleniti est iure earum eum natus autem voluptatum velit inventore assumenda ratione delectus expedita cupiditate hic tenetur, nemo odit modi? Officia quia itaque nemo eaque iusto velit sint reiciendis incidunt sit dolore necessitatibus, id harum delectus? Expedita, inventore eius. Quaerat architecto dolor, tempora similique perferendis reprehenderit velit sit corrupti voluptatem aliquam totam magnam necessitatibus temporibus vero? Odit esse sit ipsum quibusdam fugit, qui voluptatum dolorem voluptas neque iusto maxime asperiores magni, deserunt eligendi provident libero veritatis! Accusamus quidem ut maxime, nihil ducimus in odio praesentium alias veritatis non enim necessitatibus sed qui animi quasi totam, quia debitis dolores eaque cupiditate neque dolorum. Molestias magni iure, fugiat distinctio itaque, dolores commodi saepe reprehenderit eveniet nihil eligendi, vitae esse accusamus necessitatibus fuga dolorum cupiditate perspiciatis. Voluptatibus labore, porro laudantium suscipit nulla commodi perspiciatis cumque placeat incidunt in nam, odit beatae quasi aut velit officiis, et voluptatem numquam voluptate aliquam quam iure expedita! Veniam, fuga nisi delectus quod reprehenderit, atque rerum minus provident laboriosam cum maiores rem? Accusantium, officia obcaecati! Eius dolorem illum similique officiis quas neque sint, asperiores provident optio, necessitatibus esse reprehenderit corporis culpa aut pariatur magni? Quaerat perferendis delectus atque est temporibus odio in excepturi minus harum, quas dignissimos error quasi non. Quidem culpa corrupti excepturi quaerat quisquam consectetur numquam sint enim, veniam nobis dolore? Dolorum aspernatur nam explicabo consequuntur saepe, voluptatibus necessitatibus sapiente repellendus sint quos, exercitationem, unde vitae nesciunt? Quos, dignissimos. Officia eum velit illum ad facere impedit consectetur, necessitatibus dolores voluptatem, fugit quaerat. Eius animi obcaecati nisi nulla sapiente, voluptatibus adipisci id, ducimus veritatis, dolor provident non assumenda. Sunt, dolor. Debitis est a, velit tempore molestias deserunt sequi? Minus dolor eveniet perferendis numquam placeat vitae facere perspiciatis possimus. Officia nemo modi eaque, amet consequatur ipsam tempora. Blanditiis vitae quasi reprehenderit. Molestiae voluptas laboriosam eaque temporibus, voluptatem quae quas porro hic illo nobis ullam nam quos harum ducimus pariatur, quidem accusantium eveniet nostrum. Distinctio deleniti, illo molestias corporis porro eveniet quo nemo maiores delectus similique obcaecati praesentium nam vero veritatis, voluptate excepturi ad sit totam expedita assumenda. Corrupti animi soluta iure exercitationem est harum culpa eos! Cumque recusandae iure dolorum exercitationem, eum placeat totam fuga nulla nihil, impedit similique voluptas obcaecati dignissimos! Harum commodi, iure, nostrum ipsum ut magnam ex fugit debitis maiores ullam aliquid. Illo et eos cupiditate voluptas culpa deserunt voluptates dolore dignissimos quidem veniam, dicta sunt facilis molestias sed reprehenderit eum libero dolores iste nostrum! Sapiente, perspiciatis similique natus voluptate dignissimos aliquam at veniam placeat. Voluptatibus, libero magni temporibus error suscipit dolore quo minus doloribus at repellendus quasi nemo voluptate, hic asperiores, blanditiis veniam? Unde perspiciatis fugit laboriosam culpa quos repellendus nostrum. Deserunt, dolorem ipsam minus laudantium magnam commodi provident hic ab consequatur, possimus rem repellendus officia pariatur accusamus vero nesciunt, tempore animi sapiente beatae. Cupiditate, qui ex voluptatum nemo vel dignissimos delectus eaque sequi atque iure ut dolore suscipit repellendus enim odio officiis sed deleniti nam quia possimus recusandae tenetur! Quas mollitia inventore id dolor praesentium. Similique quae ipsam, earum eius labore tenetur eos laboriosam est iusto minus inventore, perferendis consequuntur et, nesciunt laborum aspernatur praesentium! Nesciunt voluptatum expedita quo suscipit tempora autem quae incidunt eum natus nobis, amet pariatur debitis cumque recusandae ipsam nulla excepturi totam tenetur fuga eos! Dignissimos?",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "id": 6,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-12",
+      "isHidden": false,
+      "title": "22222222222222222222",
+      "text": "",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/ТеСт оВая КартиНкА.png",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-12",
+      "isHidden": false,
+      "title": "wwwwwwwwwwwwwwwwwwww",
+      "text": "",
+      "imageURL": "",
+      "id": 8
+    }
+  ],
+  "books": [
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 3,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 4,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 5,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 6,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 7,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 8,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 9,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 10,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 11,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Физика",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/fizika.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-fizika-sirotjuk-2018.pdf",
+      "id": 12,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "История Украины",
+      "imageURL": "",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-istorija-ukrajini-vlasov-2018-stand.pdf",
+      "id": 2,
+      "isHidden": true
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-07",
+      "title": "Экономика",
+      "imageURL": "",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/Ekonomika-10-klas-Krupska-2018.pdf",
+      "id": 13,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-08",
+      "title": "Математика",
+      "imageURL": "",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/10-klas-matematika-merzljak-2018.pdf",
+      "id": 14,
+      "isHidden": false
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-08",
+      "isHidden": true,
+      "title": "ЗНО",
+      "imageURL": "",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/Мясоедова ЗНО 2020.docx",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-08",
+      "isHidden": false,
+      "title": "Химия (Савчин)",
+      "imageURL": "",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/11-klas-khimija-savchin-2019.pdf",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "createdAt": "2023-07-13",
+      "isHidden": false,
+      "title": "География",
+      "imageURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/images/witcher.png",
+      "pdfURL": "https://raw.githubusercontent.com/mashashmatok/fileserver/main/pdf/Geografija-10-klas-Kobernik-2018.pdf",
+      "id": 17
+    }
+  ]
+}

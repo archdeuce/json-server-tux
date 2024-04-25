@@ -1,0 +1,19 @@
+{
+  "/*db*": "/600/$1",
+
+  "/*_expand=user*": "/600/$1",
+  "/*/users*": "/600/users$1",
+  "/users*": "/600/users$1",
+
+  "/*/news*": "/644/news$1",
+  "/news*": "/644/news$1",
+
+  "/*/books*": "/644/books$1",
+  "/books*": "/644/books$1",
+
+  "/*/schedules*": "/644/schedules$1",
+  "/schedules*": "/644/schedules$1",
+
+  "/*/lessons*": "/644/lessons$1",
+  "/lessons*": "/644/lessons$1"
+}

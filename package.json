@@ -1,0 +1,18 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:auth": "json-server-auth -d 0 -H 0.0.0.0 -p 4000 -S ./data/mashashmatok/snapshots -w ./data/mashashmatok/db.json -r ./data/mashashmatok/routes.json --static ./data/mashashmatok/public",
+    "start": "json-server -d 0 -H 0.0.0.0 -p 4000 -S ./data/mashashmatok/snapshots -w ./data/mashashmatok/db.json --static ./data/mashashmatok/public",
+    "start:tux_db": "json-server -d 0 -H 0.0.0.0 -p 5000 -w ./data/tux/tux_db.json"
+  },
+  "keywords": [],
+  "author": "archdeuce",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "json-server-auth": "^2.1.0"
+  }
+}
